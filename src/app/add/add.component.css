@@ -1,0 +1,7 @@
+.formdiv{
+    border: 3px double silver;
+    margin: 50px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: calc(32vw);
+}
